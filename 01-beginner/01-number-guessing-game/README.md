@@ -12,9 +12,6 @@ This project is a simple number guessing game built with Python. The program gen
 - stats tracking
 
 ## Demo
-## Demo
-
-## Demo
 
 https://github.com/user-attachments/assets/demo.mp4
 
