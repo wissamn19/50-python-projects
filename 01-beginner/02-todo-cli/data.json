@@ -1,0 +1,32 @@
+{
+    "1": {
+        "name": "learn python",
+        "status": "Done",
+        "date": "2026-06-26T18:01:33.099208"
+    },
+    "2": {
+        "name": "practice hiragana",
+        "status": "Pending",
+        "date": "2026-06-26T18:01:57.162480"
+    },
+    "3": {
+        "name": "check my notes",
+        "status": "Pending",
+        "date": "2026-06-26T18:02:56.034681"
+    },
+    "4": {
+        "name": "read a book",
+        "status": "Pending",
+        "date": "2026-06-26T18:03:11.595155"
+    },
+    "5": {
+        "name": "review my writing",
+        "status": "Done",
+        "date": "2026-06-26T20:18:38.355535"
+    },
+    "6": {
+        "name": "check my roadmap",
+        "status": "Pending",
+        "date": "2026-06-26T20:21:47.574917"
+    }
+}
