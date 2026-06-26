@@ -23,7 +23,7 @@
 
 I'm Sam, A networks student from Algeria teaching myself to become an ML engineer.
 
-Most Python repos dump a list of projects with no context. This one is different. Every project here is a deliberate step: from writing my first loop, to building RAG chatbots, fine-tuning LLMs with LoRA, and deploying real AI-powered web apps. Each folder has working code, a real README, and an honest "what I learned" section — because that's what actually helps other people learn.
+Most Python repos dump a list of projects with no context. This one is different. Every project here is a deliberate step: from writing my first loop, to building RAG chatbots, fine-tuning LLMs with LoRA, and deploying real AI-powered web apps. Each folder has working code, a real README, and an honest "what I learned" section, because that's what actually helps other people learn.
 
 If you're on a similar path, this repo is for you too.
 
