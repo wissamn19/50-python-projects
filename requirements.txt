@@ -1,0 +1,58 @@
+# Core
+requests
+beautifulsoup4
+python-dotenv
+
+# Data
+pandas
+numpy
+
+# Image processing / computer vision
+Pillow
+opencv-python
+rembg
+
+# Web frameworks
+flask
+fastapi
+uvicorn
+python-jose          # JWT auth
+
+# Frontend / dashboards
+streamlit
+
+# Machine learning
+scikit-learn
+torch
+transformers
+peft                  # LoRA/QLoRA fine-tuning
+
+# LLM / AI / RAG
+openai
+anthropic
+langchain
+langgraph
+llama-index
+faiss-cpu
+chromadb
+ragas                 # RAG evaluation
+
+# Audio / speech
+openai-whisper
+youtube-transcript-api
+
+# Bots
+python-telegram-bot
+discord.py
+
+# Databases
+sqlalchemy
+
+# Testing
+pytest
+
+# Note: install per-project requirements as you build each one.
+# This file covers the full repo's eventual dependencies —
+# you don't need everything installed until you reach that project.
+# Heavy libraries (torch, transformers, whisper) are only needed
+# for the advanced AI/ML projects from #29 onward.
