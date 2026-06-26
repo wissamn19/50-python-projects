@@ -1,14 +1,7 @@
-"""
-Command-line To-Do List
-File I/O | Difficulty: Beginner
 
-Concepts: functions, file I/O, JSON, CLI argument handling
-"""
 import sys
 import json
 from datetime import datetime
-
-
 
 def usage():
   print("Your To-Do list is here!!, Choose the following Commands: ")
@@ -109,7 +102,6 @@ def done_tasks():
 
 
     
-
 if sys.argv[1] == 'add':
   add_task()
 elif sys.argv[1] == 'remove':
