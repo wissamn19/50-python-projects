@@ -22,7 +22,7 @@ def Checker():
    
     if point >= 0 and point <= 2:
       print(f"Your password is weak, with only {point}.")
-    elif point == 3 and point == 4:
+    elif point == 3 or point == 4:
       print(f"Your password is Medium, with {point}.")
     else:
       print(f"Your password is STRONG!!, with {point}.")
@@ -64,7 +64,7 @@ def Generator():
     uppercase = string.ascii_uppercase if password_uppercase == "yes" else ""
     numbers = string.digits if password_numbers == "yes" else ""
     specialchar = string.punctuation if password_specchara == "yes" else ""
-    lower = string.ascii_lowercase  # Always include lowercase as fallback
+    lower = string.ascii_lowercase  
 
     
     guaranteed = []
@@ -92,12 +92,19 @@ def Generator():
 
 check_generate = int(input("Do you want to check your password or to generate a new ? (to check reply 1 , to genrate reply 2)"))
 
-if check_generate == 1:
+
+if check_generate == 1 and len(sys.argv) < 2:
     Checker()
+
+elif check_generate == 2 and len(sys.argv) > 1:
+    Generator()
+
 elif check_generate == 2:
     Generator()
+
 else:
     print("Invalid input")
+
       
       
     
