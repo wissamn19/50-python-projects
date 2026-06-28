@@ -11,7 +11,7 @@
 *A self-taught ML engineering journey, documented in code.*
 
 [![Python](https://img.shields.io/badge/Python-3.10+-3b82f6?style=flat-square&logo=python&logoColor=white)](https://python.org)
-[![Progress](https://img.shields.io/badge/Progress-02%2F50-22c55e?style=flat-square)](#-project-index)
+[![Progress](https://img.shields.io/badge/Progress-03%2F50-22c55e?style=flat-square)](#-project-index)
 [![License](https://img.shields.io/badge/License-MIT-f59e0b?style=flat-square)](LICENSE)
 [![GitHub](https://img.shields.io/badge/GitHub-wissamn19-d2a8ff?style=flat-square&logo=github)](https://github.com/wissamn19)
 
@@ -34,7 +34,7 @@ If you're on a similar path, this repo is for you too.
 ## Progress
 
 ```
-🟢 Beginner      ██████████░░░░░░░░░░  02/10  ✅ In progress
+🟢 Beginner      ██████████░░░░░░░░░░  03/10  ✅ In progress
 🟡 Intermediate  ░░░░░░░░░░░░░░░░░░░░   0 / 17  🔲 Up next
 🔴 Advanced      ░░░░░░░░░░░░░░░░░░░░   0 / 23  🔲 Coming soon
 
@@ -52,7 +52,7 @@ Total: 01/50
 |---|---------|-------------|--------|
 | 01 | [Number Guessing Game](01-beginner/01-number-guessing-game) | loops, conditionals, random, stats | ✅ |
 | 02 | [Command-line To-Do List](01-beginner/02-todo-cli) | functions, file I/O, JSON, CLI args | ✅|
-| 03 | [Password Strength Checker / Generator](01-beginner/03-password-checker) | strings, regex | 🔲|
+| 03 | [Password Strength Checker / Generator](01-beginner/03-password-checker) | strings, regex | ✅|
 | 04 | [Expense Tracker](01-beginner/04-expense-tracker) | OOP, CSV, data structures | 🔲|
 | 05 | [Contact Book with Search](01-beginner/05-contact-book) | dictionaries, OOP, fuzzy search | 🔲|
 | 06 | [Text Analyzer](01-beginner/06-text-analyzer) | string processing, word frequency | 🔲|
