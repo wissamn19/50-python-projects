@@ -1,0 +1,12 @@
+The quick brown fox jumps over the lazy dog. This sentence is famous because 
+it contains every letter of the English alphabet at least once. Writers and 
+typographers have used it for decades to test fonts, keyboards, and printing 
+equipment. The fox, despite being quick and brown, does not seem particularly 
+concerned about the dog. The dog, for its part, appears completely unbothered 
+by the whole situation. Language is a fascinating tool that humans use to 
+communicate complex ideas, emotions, and stories. Every word carries meaning, 
+and the arrangement of words into sentences creates something greater than the 
+sum of its parts. Python, as a programming language, treats text as a sequence 
+of characters that can be sliced, searched, counted, and transformed in 
+countless ways. This makes it a powerful tool for anyone interested in natural 
+language processing or text analysis.
