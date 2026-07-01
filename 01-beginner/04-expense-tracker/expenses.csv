@@ -1,0 +1,23 @@
+id,category,amount,date,description
+1.0,Food,12.5,2026-06-01,Lunch at restaurant
+2.0,Transport,3.75,2026-06-01,Bus ticket
+3.0,Food,45.0,2026-06-02,Grocery shopping
+4.0,Entertainment,15.0,2026-06-02,Netflix subscription
+5.0,Food,8.3,2026-06-03,Coffee and sandwich
+6.0,Transport,25.0,2026-06-03,Taxi to university
+7.0,Health,60.0,2026-06-04,Pharmacy
+8.0,Food,22.0,2026-06-05,Dinner with friends
+9.0,Education,35.0,2026-06-06,Programming book
+10.0,Transport,3.75,2026-06-06,Bus ticket
+11.0,Food,18.5,2026-06-07,Supermarket
+12.0,Entertainment,10.0,2026-06-07,Cinema ticket
+13.0,Health,20.0,2026-06-08,Gym session
+14.0,Food,6.0,2026-06-09,Breakfast
+15.0,Education,0.0,2026-06-09,Free online course
+16.0,Transport,3.75,2026-06-10,Bus ticket
+17.0,Food,30.0,2026-06-10,Weekly groceries
+18.0,Entertainment,25.0,2026-06-11,Concert ticket
+19.0,Health,15.0,2026-06-12,Vitamins
+20.0,Food,9.5,2026-06-13,Lunch
+21.0,Education,37.9,2026-07-01,Machine learning course
+22.0,Food,45.9,2026-07-01,Dinner with friends
