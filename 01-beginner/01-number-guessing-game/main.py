@@ -1,9 +1,3 @@
-"""
-Number Guessing Game
-Core syntax | Difficulty: Beginner
-
-Concepts: loops, conditionals, random module, stats tracking
-"""
 import random
 
 def main():
