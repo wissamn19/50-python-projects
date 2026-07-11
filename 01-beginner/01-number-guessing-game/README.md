@@ -11,9 +11,6 @@ This project is a simple number guessing game built with Python. The program gen
 - random module
 - stats tracking
 
-## Demo
-
-https://github.com/user-attachments/assets/demo.mp4
 
 ## How to Run
 ```bash
