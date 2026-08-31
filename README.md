@@ -11,7 +11,7 @@
 *A self-taught ML engineering journey, documented in code.*
 
 [![Python](https://img.shields.io/badge/Python-3.10+-3b82f6?style=flat-square&logo=python&logoColor=white)](https://python.org)
-[![Progress](https://img.shields.io/badge/Progress-07%2F50-22c55e?style=flat-square)](#-project-index)
+[![Progress](https://img.shields.io/badge/Progress-08%2F50-22c55e?style=flat-square)](#-project-index)
 [![License](https://img.shields.io/badge/License-MIT-f59e0b?style=flat-square)](LICENSE)
 [![GitHub](https://img.shields.io/badge/GitHub-wissamn19-d2a8ff?style=flat-square&logo=github)](https://github.com/wissamn19)
 
@@ -34,11 +34,11 @@ If you're on a similar path, this repo is for you too.
 ## Progress
 
 ```
-🟢 Beginner      ██████████░░░░░░░░░░  07/10  ✅ In progress
+🟢 Beginner      ██████████░░░░░░░░░░  08/10  ✅ In progress
 🟡 Intermediate  ░░░░░░░░░░░░░░░░░░░░   0 / 17  🔲 Up next
 🔴 Advanced      ░░░░░░░░░░░░░░░░░░░░   0 / 23  🔲 Coming soon
 
-Total: 06/50
+Total: 08/50
 ```
 
 ---
@@ -57,7 +57,7 @@ Total: 06/50
 | 05 | [Contact Book with Search](01-beginner/05-contact-book) | dictionaries, OOP, fuzzy search | ✅|
 | 06 | [Text Analyzer](01-beginner/06-text-analyzer) | string processing, word frequency | ✅|
 | 07 | [Unit Converter / Calculator](01-beginner/07-unit-converter) | OOP, custom exceptions | ✅|
-| 08 | [Simple REST API Client](01-beginner/08-rest-api-client) | requests, JSON parsing | 🔲|
+| 08 | [Simple REST API Client](01-beginner/08-rest-api-client) | requests, JSON parsing | ✅|
 | 09 | [Web Scraper for Book Prices](01-beginner/09-book-price-scraper) | BeautifulSoup, error handling, CSV | 🔲|
 | 10 | [Mini Library Management System](01-beginner/10-library-system) | OOP inheritance, file persistence | 🔲|
 
